@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    
+   
+}
+
+button {
+    margin: 0;
+    text-align: center;
+    width: 100px;
+    height: 75px;
+    background-color: white;
+    border: solid 3px #e4e4e4;
+    transition: ease-in 1s;
+
+}
+button:hover {
+    box-shadow: 3px 3px 3px gainsboro;
+}
+.container {
+
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-auto-rows: 100px;
+    display: grid;
+    width: 330px;
+    margin: auto;
+    align-items: center
+    
+}
+
+body {
+    background-color: darkgoldenrod;
+}
