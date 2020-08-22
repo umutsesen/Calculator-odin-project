@@ -1,13 +1,12 @@
-<<<<<<< HEAD
+
 html, body {
     margin: 0;
     height: 100%;
 }
 
-=======
->>>>>>> parent of 1dcfac2... fixed background color
 body {
     font-family: Arial, Helvetica, sans-serif;
+    background-color: darkgoldenrod;
     
    
 }
@@ -34,8 +33,4 @@ button:hover {
     margin: auto;
     align-items: center
     
-}
-
-body {
-    background-color: darkgoldenrod;
 }
