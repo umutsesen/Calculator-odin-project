@@ -1,6 +1,10 @@
+html { 
+    min-height: 100%; }
+
 body {
     font-family: Arial, Helvetica, sans-serif;
-    
+    background-color: darkgoldenrod;
+    min-height: 100%;
    
 }
 
@@ -28,6 +32,3 @@ button:hover {
     
 }
 
-body {
-    background-color: darkgoldenrod;
-}
